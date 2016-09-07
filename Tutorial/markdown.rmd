@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
